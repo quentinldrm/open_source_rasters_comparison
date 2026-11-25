@@ -46,3 +46,7 @@ sertit[full]>=1.46.4
 
 # I/O / Downloads
 requests
+zstandard
+
+# Others
+rio_cogeo
