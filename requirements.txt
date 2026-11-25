@@ -38,6 +38,7 @@ methodtools
 
 # Plot
 matplotlib
+seaborn
 
 # Sertit libs
 eoreader>=0.22.0
